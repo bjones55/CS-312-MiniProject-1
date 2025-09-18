@@ -1,1 +1,2 @@
-Dependencies and description inside package.json
+# Blog Application
+### Dependencies inside package.json
